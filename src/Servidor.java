@@ -1,10 +1,5 @@
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.net.DatagramPacket;
-import java.net.DatagramSocket;
-import java.net.SocketException;
-
+import java.io.*;
+import java.net.*;
 public class Servidor {
     public static void main(String[] args) {
         try{
