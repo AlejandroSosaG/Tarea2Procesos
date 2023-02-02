@@ -1,6 +1,7 @@
 import java.io.IOException;
 import java.net.*;
 import java.util.Random;
+
 public class Cliente {
     public static void main(String[] args) {
         Random r = new Random();
